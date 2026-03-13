@@ -1,0 +1,8 @@
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.csproj.AssemblyReference.cache
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.AssemblyInfoInputs.cache
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.AssemblyInfo.cs
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.csproj.CoreCompileInputs.cache
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\23971603823\Desktop\Elysium\Elysium Eventos\obj\Debug\net8.0\Elysium Eventos.MvcApplicationPartsAssemblyInfo.cache
