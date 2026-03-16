@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\repository\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:repository\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\eventodto\\lereventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:dtos\\eventodto\\lereventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\repository\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:repository\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\domains\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:domains\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\categoriadto\\criarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:dtos\\categoriadto\\criarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\categoriadto\\lercategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:dtos\\categoriadto\\lercategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\eventodto\\atualizareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:dtos\\eventodto\\atualizareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\eventodto\\criareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:dtos\\eventodto\\criareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\categoriadto\\lercategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC12347-9564-41A4-B6FD-D9FC7BA0C17D}|Elysium.csproj|solutionrelative:dtos\\categoriadto\\lercategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|c:\\users\\23971603823\\desktop\\elysium\\elysium eventos\\elysium\\dtos\\categoriadto\\criarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47DFD7-E0E5-4F1C-784B-3DC92FA0A7CA}|Elysium.csproj|solutionrelative:dtos\\categoriadto\\criarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,38 +33,51 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 216,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 239,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Domains\\Evento.cs",
+              "RelativeDocumentMoniker": "Domains\\Evento.cs",
+              "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Domains\\Evento.cs",
+              "RelativeToolTip": "Domains\\Evento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:02:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IEventoRepository.cs",
               "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Interfaces\\IEventoRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IEventoRepository.cs",
               "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Interfaces\\IEventoRepository.cs",
               "RelativeToolTip": "Interfaces\\IEventoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:56:01.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EventoRepository.cs",
               "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Repository\\EventoRepository.cs",
               "RelativeDocumentMoniker": "Repository\\EventoRepository.cs",
               "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Repository\\EventoRepository.cs",
               "RelativeToolTip": "Repository\\EventoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:54:50.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\Domains\\Usuario.cs",
               "RelativeDocumentMoniker": "Domains\\Usuario.cs",
@@ -85,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "LerCategoriaDto.cs",
               "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\CategoriaDto\\LerCategoriaDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoriaDto\\LerCategoriaDto.cs",
@@ -98,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CriarCategoriaDto.cs",
               "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\CategoriaDto\\CriarCategoriaDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoriaDto\\CriarCategoriaDto.cs",
@@ -107,51 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:24:26.787Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 184,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AtualizarEventoDto.cs",
-              "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\AtualizarEventoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\EventoDto\\AtualizarEventoDto.cs",
-              "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\AtualizarEventoDto.cs",
-              "RelativeToolTip": "DTOs\\EventoDto\\AtualizarEventoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:38:07.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LerEventoDto.cs",
-              "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\LerEventoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\EventoDto\\LerEventoDto.cs",
-              "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\LerEventoDto.cs",
-              "RelativeToolTip": "DTOs\\EventoDto\\LerEventoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:33:08.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CriarEventoDto.cs",
-              "DocumentMoniker": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\CriarEventoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\EventoDto\\CriarEventoDto.cs",
-              "ToolTip": "C:\\Users\\23971603823\\Desktop\\Elysium\\Elysium Eventos\\Elysium\\DTOs\\EventoDto\\CriarEventoDto.cs",
-              "RelativeToolTip": "DTOs\\EventoDto\\CriarEventoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:26:56.053Z",
               "EditorCaption": ""
             }
           ]

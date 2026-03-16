@@ -21,7 +21,7 @@ public partial class Evento
 
     public bool? StatusEvento { get; set; }
 
-    public virtual ICollection<CategoriaEvento> CategoriaEvento { get; set; } = new List<CategoriaEvento>();
+    public virtual ICollection<Categoria> Categoria { get; set; } = new List<Categoria>();
 
     public virtual Usuario CriadoPorUsuario { get; set; } = null!;
 
